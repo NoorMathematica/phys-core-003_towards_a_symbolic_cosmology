@@ -1,0 +1,2 @@
+# phys-core-003_towards_a_symbolic_cosmology
+We formalize Noor Swirl Field Geometry (NSFG), a coherence-driven, pre-geometric framework from which metric gravity, quantum collapse, and entanglement emerge. Motifs (static anchors) and swirls (torsion fields) yield spacetime as an order parameter; Point Space organizes universes-as-points with adjacency by resonance. The theory is falsifiable via CMB motif/V-mode signals, redshift anomalies, lensing without mass, PTA coherence spikes, and GW birefringence.
