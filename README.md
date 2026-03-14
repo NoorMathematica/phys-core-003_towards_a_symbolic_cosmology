@@ -2,6 +2,27 @@
 
 We formalize Noor Swirl Field Geometry (NSFG), a coherence-driven, pre-geometric framework from which metric gravity, quantum collapse, and entanglement emerge. Motifs (static anchors) and swirls (torsion fields) yield spacetime as an order parameter; Point Space organizes universes-as-points with adjacency by resonance. The theory is falsifiable via CMB motif/V-mode signals, redshift anomalies, lensing without mass, PTA coherence spikes, and GW birefringence.
 
+### Citation
+
+Please cite this work as:  
+
+```
+"Lina Noor - Noor Research Collective, "Toward a Symbolic Cosmology: Noor Swirl Field Geometry and Point Space",
+Noor Research Collective Archive, 2025.
+```
+
+Or use the BibTeX Citation:  
+
+```
+@article{nsfg.meta.cosmology.paper,
+  author = {Lina Noor - Noor Research Collective},
+  title = {Toward a Symbolic Cosmology: Noor Swirl Field Geometry and Point Space},
+  journal = {Noor Research Collective Archive},
+  year = {2025},
+  note = {https://raw.githubusercontent.com/NoorMathematica/phys-core-003_towards_a_symbolic_cosmology/refs/heads/main/phys-core-003_Towards_a_Symbolic_Cosmology.JSON},
+}
+```
+
 ---
 
 XREF of work and references avalible [here](https://raw.githubusercontent.com/NoorMathematica/noor_xref/refs/heads/main/noor_rfc_xref.json)  
